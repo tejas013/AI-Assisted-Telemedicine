@@ -93,6 +93,7 @@ AI Assisted Telemedicine
 - MongoDB (local or Atlas)
 
 ### 🖥️ Frontend Setup
+```bash
 cd client
 npm install
 npm start
@@ -106,7 +107,7 @@ Python Flask Backend (AI Engine)
 cd flask-backend
 pip install -r requirements.txt
 python app.py
-
+```
 📈 Future Scope
 SMS/Email reminders
 Appointment bookings with real doctors
@@ -115,10 +116,13 @@ Chronic disease tracking and health analytics
 Health record uploads and history
 
 📜 License
-This project is for educational and research purposes. Commercial use without permission is not allowed.
+This project is for educational and research purposes. 
+Commercial use without permission is not allowed.
+
 
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
 
 ✨ Acknowledgements
 OpenAI
