@@ -93,7 +93,6 @@ AI Assisted Telemedicine
 - MongoDB (local or Atlas)
 
 ### 🖥️ Frontend Setup
-```bash
 cd client
 npm install
 npm start
